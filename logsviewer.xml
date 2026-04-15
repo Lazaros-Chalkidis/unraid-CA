@@ -4,11 +4,10 @@
   <PluginURL>https://raw.githubusercontent.com/Lazaros-Chalkidis/unraid-logsviewer/main/logsviewer.plg</PluginURL>
   <PluginAuthor>Lazaros Chalkidis</PluginAuthor>
   <Beta>false</Beta>
-  <Category>Tools:Utilities</Category>
+  <Category>Tools:Utilities Tools:System</Category>
   <Name>Logs Viewer</Name>
-  <Description><![CDATA[Logs Viewer is a modern and fast log viewer, featuring a Dashboard widget and a Tools page.
-View System, Docker, and VM logs in one place with search, filtering, optional syntax highlighting (two modes), autoscroll, export, and helpful status counters.
-Fully configurable, lightweight, and safe for large logs, with sensible defaults and performance-friendly limits.]]></Description>
+  <Description><![CDATA[Real-time system, Docker and VM log viewer with dashboard widget and dedicated Tools page - Log Backups and System Alerts. Live auto-refresh, severity badges, search, filtering, syntax highlighting and export.]]>
+  </Description>
   <Project>https://github.com/Lazaros-Chalkidis/unraid-logsviewer</Project>
   <Support>https://forums.unraid.net/topic/197621-plugin-logs-viewer-real-time-log-viewer-dashboard-widget-for-unraid/</Support>
   <Icon>https://raw.githubusercontent.com/Lazaros-Chalkidis/unraid-logsviewer/main/source/logsviewerplugin.png</Icon>
