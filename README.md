@@ -1,4 +1,4 @@
-# Unraid Community Applications — Plugin Repository
+# Unraid Community Applications - Plugin Repository
 
 This repository contains the XML metadata files for [Community Applications](https://forums.unraid.net/topic/38582-plug-in-community-applications/) plugin listings.
 
