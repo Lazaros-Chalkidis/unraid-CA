@@ -4,7 +4,7 @@
   <PluginURL>https://raw.githubusercontent.com/Lazaros-Chalkidis/unraid-logsviewer/main/logsviewer.plg</PluginURL>
   <PluginAuthor>Lazaros Chalkidis</PluginAuthor>
   <Beta>false</Beta>
-  <Category>Tools:Utilities Tools:System</Category>
+  <Category>Tools:Utilities Plugins</Category>
   <Name>Logs Viewer</Name>
   <Description><![CDATA[Real-time system, Docker and VM log viewer with dashboard widget and dedicated Tools page - Log Backups and System Alerts. Live auto-refresh, severity badges, search, filtering, syntax highlighting and export.]]>
   </Description>
